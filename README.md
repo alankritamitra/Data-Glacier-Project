@@ -1,0 +1,1 @@
+Problem Description - To inform police agencies of Texas where they can make improvements by identifying deployment areas where racial disparities exist and are not explainable by crime rates and poverty levels.
